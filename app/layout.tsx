@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Magic Mile Calculator",
   description: "Estimator app for aerial and underground builds",
+  applicationName: "Magic Mile Calculator",
 };
 
 export default function RootLayout({
